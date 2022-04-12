@@ -7,7 +7,7 @@ public class ClassA
 	@Test
 	public void demoTest()
 	{
-	    System.out.println("first push");	
+	    System.out.println("fifth push");	
 	}
 
 }

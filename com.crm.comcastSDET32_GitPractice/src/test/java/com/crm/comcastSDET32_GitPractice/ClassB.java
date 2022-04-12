@@ -9,6 +9,8 @@ public class ClassB
 	{
 	System.out.println("Push Second time");	
 	System.out.println("Push Second time!!!!!!!!");	
+	System.out.println("Push Third  time!!!!yeeeeup!!!!");	
+
 	}
 
 }

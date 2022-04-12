@@ -11,8 +11,8 @@ public class ClassC
 		System.out.println("push2");
 		System.out.println("push3");
 		System.out.println("push4");
-     System.out.println("push6");
-		System.out.println("push7");
+        System.out.println("push6");
+		System.out.println("pull");
 
 		
 
